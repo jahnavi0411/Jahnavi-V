@@ -1,0 +1,6 @@
+{
+  "name": "Academic Precision",
+  "description": "Authoritative curriculum architecture, competency matrix mapping, and real-time ABET/WASC accreditation compliance workstation for university academic leadership.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
